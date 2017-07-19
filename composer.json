@@ -1,0 +1,10 @@
+{
+  "name": "bluzphp/module-comments",
+  "type": "bluz-module",
+  "license": "MIT",
+  "description": "Bluz comments module",
+  "require": {
+    "bluzphp/composer-plugin": "~2.0",
+    "fzaninotto/faker": "~1.6"
+  }
+}
