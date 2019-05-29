@@ -4,8 +4,9 @@
   "license": "MIT",
   "description": "Bluz comments module",
   "require": {
-    "bluzphp/framework": "~7.10",
+    "bluzphp/framework": "~7.11",
     "bluzphp/composer-plugin": "~2.1",
+    "bluzphp/module-blog": "~1.0",
     "fzaninotto/faker": "~1.6"
   }
 }

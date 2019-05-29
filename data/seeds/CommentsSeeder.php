@@ -19,19 +19,19 @@ class CommentsSeeder extends AbstractSeed
                 'content' => 'Run Method',
                 'created' => date('Y-m-d H:i:s'),
                 'userId' => 1,
-                'pageId' => 1
+                'postId' => 1
             ],
             [
                 'content' => 'Write your database seeder using this method',
                 'created' => date('Y-m-d H:i:s'),
                 'userId' => 1,
-                'pageId' => 1
+                'postId' => 1
             ],
             [
                 'content' => 'More information on writing seeders is available here',
                 'created' => date('Y-m-d H:i:s'),
                 'userId' => 1,
-                'pageId' => 1
+                'postId' => 1
             ]
         ];
 

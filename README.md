@@ -1,19 +1,17 @@
-# Module categories for Bluz Skeleton
+# Module Comments for Bluz Skeleton
+## Achievements
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bluzphp/main)
+[![Latest Stable Version](https://img.shields.io/packagist/v/bluzphp/module-comments.svg?label=version&style=flat)](https://packagist.org/packages/bluzphp/module-comments)
 
-### Achievements
+[![Build Status](https://img.shields.io/travis/bluzphp/module-comments/master.svg?style=flat)](https://travis-ci.org/bluzphp/module-comments)
 
-[![Build Status](https://travis-ci.org/bluzphp/module-comments.svg?branch=master)](https://travis-ci.org/bluzphp/module-comments)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bluzphp/module-comments/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bluzphp/module-comments/?branch=master)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/bluzphp/module-comments.svg?style=flat)](https://scrutinizer-ci.com/g/bluzphp/module-comments/)
 
-[![Latest Stable Version](https://poser.pugx.org/bluzphp/module-comments/v/stable)](https://packagist.org/packages/bluzphp/module-comments)
-[![Total Downloads](https://poser.pugx.org/bluzphp/module-comments/downloads)](https://packagist.org/packages/bluzphp/module-comments)
+[![Total Downloads](https://img.shields.io/packagist/dt/bluzphp/module-comments.svg?style=flat)](https://packagist.org/packages/bluzphp/module-comments)
 
-[![License](https://poser.pugx.org/bluzphp/module-comments/license)](https://packagist.org/packages/bluzphp/module-comments)
+[![License](https://img.shields.io/packagist/l/bluzphp/module-comments.svg?style=flat)](https://packagist.org/packages/bluzphp/module-comments)
 
-Usage
--------------------------
+## Usage
 ### Install module
 To install the module run the command:
   
